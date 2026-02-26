@@ -1,0 +1,123 @@
+{
+  "colors": {
+    "primary": {
+      "50": "#eff6ff",
+      "100": "#dbeafe",
+      "200": "#bfdbfe",
+      "300": "#93c5fd",
+      "400": "#60a5fa",
+      "500": "#3b82f6",
+      "600": "#2563eb",
+      "700": "#1d4ed8",
+      "800": "#1e40af",
+      "900": "#1e3a8a"
+    },
+    "secondary": {
+      "50": "#f8fafc",
+      "100": "#f1f5f9",
+      "200": "#e2e8f0",
+      "300": "#cbd5e1",
+      "400": "#94a3b8",
+      "500": "#64748b",
+      "600": "#475569",
+      "700": "#334155",
+      "800": "#1e293b",
+      "900": "#0f172a"
+    },
+    "success": {
+      "light": "#86efac",
+      "DEFAULT": "#22c55e",
+      "dark": "#15803d"
+    },
+    "warning": {
+      "light": "#fde047",
+      "DEFAULT": "#eab308",
+      "dark": "#a16207"
+    },
+    "error": {
+      "light": "#fca5a5",
+      "DEFAULT": "#ef4444",
+      "dark": "#b91c1c"
+    },
+    "brand": "#6366f1"
+  },
+  "spacing": {
+    "0": 0,
+    "1": 4,
+    "2": 8,
+    "3": 12,
+    "4": 16,
+    "5": 20,
+    "6": 24,
+    "8": 32,
+    "10": 40,
+    "12": 48,
+    "16": 64,
+    "20": 80,
+    "24": 96
+  },
+  "fontSize": {
+    "xs": [12, { "lineHeight": 16 }],
+    "sm": [14, { "lineHeight": 20 }],
+    "base": [16, { "lineHeight": 24 }],
+    "lg": [18, { "lineHeight": 28 }],
+    "xl": [20, { "lineHeight": 28 }],
+    "2xl": [24, { "lineHeight": 32 }],
+    "3xl": [30, { "lineHeight": 36 }],
+    "4xl": [36, { "lineHeight": 40 }]
+  },
+  "fontWeight": {
+    "light": "300",
+    "normal": "400",
+    "medium": "500",
+    "semibold": "600",
+    "bold": "700"
+  },
+  "fontFamily": {
+    "sans": "System",
+    "serif": "Georgia",
+    "mono": "Courier"
+  },
+  "borderRadius": {
+    "none": 0,
+    "sm": 4,
+    "DEFAULT": 8,
+    "md": 12,
+    "lg": 16,
+    "xl": 24,
+    "full": 9999
+  },
+  "shadow": {
+    "sm": {
+      "offsetX": 0,
+      "offsetY": 1,
+      "blur": 2,
+      "color": "rgba(0, 0, 0, 0.05)"
+    },
+    "DEFAULT": {
+      "offsetX": 0,
+      "offsetY": 2,
+      "blur": 4,
+      "color": "rgba(0, 0, 0, 0.1)"
+    },
+    "md": {
+      "offsetX": 0,
+      "offsetY": 4,
+      "blur": 8,
+      "color": "rgba(0, 0, 0, 0.1)"
+    },
+    "lg": {
+      "offsetX": 0,
+      "offsetY": 8,
+      "blur": 16,
+      "color": "rgba(0, 0, 0, 0.1)"
+    }
+  },
+  "opacity": {
+    "0": 0,
+    "25": 0.25,
+    "50": 0.5,
+    "75": 0.75,
+    "100": 1
+  }
+}
