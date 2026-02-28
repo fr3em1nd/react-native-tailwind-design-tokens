@@ -1,6 +1,6 @@
 {
   "name": "rn-tailwind-tokens",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate React Native styles from Tailwind + design tokens with Figma sync support",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -53,11 +53,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fr3em1ns/react-native-tailwind-design-tokens"
+    "url": "https://github.com/fr3em1nd/react-native-tailwind-design-tokens"
   },
-  "homepage": "https://github.com/fr3em1ns/react-native-tailwind-design-tokens#readme",
+  "homepage": "https://github.com/fr3em1nd/react-native-tailwind-design-tokens#readme",
   "bugs": {
-    "url": "https://github.com/fr3em1ns/react-native-tailwind-design-tokens/issues"
+    "url": "https://github.com/fr3em1nd/react-native-tailwind-design-tokens/issues"
   },
   "engines": {
     "node": ">=16.0.0"

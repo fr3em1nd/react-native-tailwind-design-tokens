@@ -465,5 +465,5 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 
 ## Support
 
-- [GitHub Issues](https://github.com/fr3em1ns/react-native-tailwind-design-tokens/issues)
-- [Documentation](https://github.com/fr3em1ns/react-native-tailwind-design-tokens#readme)
+- [GitHub Issues](https://github.com/fr3em1nd/react-native-tailwind-design-tokens/issues)
+- [Documentation](https://github.com/fr3em1nd/react-native-tailwind-design-tokens#readme)
