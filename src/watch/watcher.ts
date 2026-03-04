@@ -39,7 +39,7 @@ export interface WatcherOptions {
 export class TokenWatcher {
   private watcher: chokidar.FSWatcher | null = null;
   private callbacks: Set<TokenChangeCallback> = new Set();
-  private debounceTimer: NodeJS.Timeout | null = null;
+  private debounceTimer: ReturnType<typeof setTimeout> | null = null;
   private options: Required<WatcherOptions>;
 
   constructor(options: WatcherOptions) {
