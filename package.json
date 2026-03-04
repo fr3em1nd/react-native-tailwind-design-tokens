@@ -1,6 +1,6 @@
 {
   "name": "rn-tailwind-tokens",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate React Native styles from Tailwind + design tokens with Figma sync support",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
